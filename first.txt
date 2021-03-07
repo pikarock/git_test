@@ -3,3 +3,5 @@
 .git status
 
 .git rm
+
+・git diff
